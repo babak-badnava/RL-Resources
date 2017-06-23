@@ -60,6 +60,6 @@ This post is also available on my personal [blog](http://badnava.me/2017/06/24/r
 - [Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU](https://github.com/NVlabs/GA3C)
 - [Distributed Deep Q-Learning tensorflow implementation(this code work well on classic control problem but not in atari environment)](https://github.com/viswanathgs/dist-dqn)
 - [Implementation of Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning/)
-## Tools and Frameworkss 
+## Tools and Frameworks 
 - [OpenAI Gym](https://gym.openai.com/) an awesome simulator that simulate many environment in just 5 line of code
 - [The Brown-UMBC Reinforcement Learning and Planning](http://burlap.cs.brown.edu/)
