@@ -1,4 +1,7 @@
 # Reinforcement learning- Resources
+These are some useful resources for whom want to know more about Reinforcement learning(RL) and Deep RL
+[This post on my personal blog](http://badnava.me/2017/06/24/reinforcement-learning-resources/)
+
 ## Table of Contents
 
  - [Courses](#courses)
