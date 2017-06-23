@@ -5,7 +5,8 @@
  - [Books](#books)
  - [Peoples](#peoples)
  - [Blog posts](#blog-posts)
- - [Papers](#papers)
+ - [Papars](#papars)
+ - [Codes](#codes)
  
 
 
@@ -18,15 +19,15 @@
 - [Algorithms for Reinforcement Learning by Csaba Szepesvari](http://www.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 	
 ## Peoples
-- [Richard S. Sutton]
- - [Google scholar](https://scholar.google.com/citations?user=hNTyptAAAAAJ)
- - [home page](http://incompleteideas.net/sutton/index.html)
-- [Michael L. Littman]
- - [Google scholar](https://scholar.google.com/citations?user=Jj00ksMAAAAJ&hl=en)
- - [home page](http://cs.brown.edu/~mlittman/)
-- [Csaba Szepesvari]
- - [Google scholar](https://scholar.google.com/citations?user=zvC19mQAAAAJ&hl=en)
- - [home page](https://sites.ualberta.ca/~szepesva/)
+- Richard S. Sutton
+  - [Google scholar](https://scholar.google.com/citations?user=hNTyptAAAAAJ)
+  - [home page](http://incompleteideas.net/sutton/index.html)
+- Michael L. Littman
+  - [Google scholar](https://scholar.google.com/citations?user=Jj00ksMAAAAJ&hl=en)
+  - [home page](http://cs.brown.edu/~mlittman/)
+- Csaba Szepesvari
+  - [Google scholar](https://scholar.google.com/citations?user=zvC19mQAAAAJ&hl=en)
+  - [home page](https://sites.ualberta.ca/~szepesva/)
 ## Blog posts 
 - [WildML an amazing blog](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 - 
