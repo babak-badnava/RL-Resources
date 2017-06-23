@@ -59,4 +59,3 @@
 ## Tools and Frameworkss 
 - [OpenAI Gym](https://gym.openai.com/) an awesome simulator that simulate many environment in just 5 line of code
 - [The Brown-UMBC Reinforcement Learning and Planning](http://burlap.cs.brown.edu/)
-- [Tensorflow]()
