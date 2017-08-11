@@ -56,6 +56,7 @@ This post is also available on my personal [blog](http://badnava.me/2017/06/24/r
 - [Reinforcement learning improves behaviour from evaluative feedback](https://www.nature.com/nature/journal/v521/n7553/full/nature14540.html)
 - [Distributed Deep Q-Learning](https://arxiv.org/abs/1508.04186)
 - [Learning to Communicate with Deep Multi­-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)
+- [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 ## Codes
 - [Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU](https://github.com/NVlabs/GA3C)
 - [Distributed Deep Q-Learning tensorflow implementation(this code work well on classic control problem but not in atari environment)](https://github.com/viswanathgs/dist-dqn)
